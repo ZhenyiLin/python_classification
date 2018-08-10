@@ -2,7 +2,7 @@
 
 ## Contents
 1. Logistic Regression
-2. Kmeans
+2. Kmeans (tensorflow)
 
 
 
@@ -16,7 +16,7 @@
     * Use threshold in hyper tuning
 
 
-## Logistic Regression
+## Kmeans (tensorflow)
 * Read local MNIST dataset
 * Use TensorFlow built-in KMeans algorithm
    * use kmean++ algorithm to initialize centers
