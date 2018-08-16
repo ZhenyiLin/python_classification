@@ -1,4 +1,4 @@
-# Classification
+# Practice of Classification
 
 ## Contents
 1. Logistic Regression
