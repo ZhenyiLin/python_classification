@@ -4,6 +4,7 @@
 1. Logistic Regression
 2. Kmeans (tensorflow)
 3. SVM (linear + kernel)
+4. Gradient Boosting
 
 
 
@@ -33,3 +34,10 @@
 * SVM model
    * Linear model
    * Kernel model
+
+
+## Gradient Boosting
+* Feature engineering
+* Gradient boosting default model
+* Gradient boosting hyper tuning
+
