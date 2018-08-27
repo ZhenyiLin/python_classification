@@ -9,8 +9,7 @@
 
 
 ## Logistic Regression
-* Build a classification model using logistic regression
-* Estimates an applicant's probability of admission based the scores from 2 exams
+* Build a classification model using logistic regression to estimates an applicant's probability of admission based the scores from 2 exams
 * Use sklearn logistic regression
     * Use F1-score
     * Use Grid search Cross Validation
@@ -18,8 +17,8 @@
 
 
 ## Kmeans (tensorflow)
-* Read local MNIST dataset
-* Use TensorFlow built-in KMeans algorithm
+* Use TensorFlow built-in KMeans algorithm to classify handwritten digits (MNIST)
+   * Load local MNIST dataset
    * use kmean++ algorithm to initialize centers
    * use tensorboard to visualization
 * Algorithm
@@ -29,7 +28,7 @@
 
 
 ## Support Vector Machine
-* Build a classification model using SVM
+* Build a classification model using SVM 
 * Data: coursera machine learning week 6
 * SVM model
    * Linear model
@@ -37,7 +36,8 @@
 
 
 ## Gradient Boosting
+* Build a classification model using Gradient Boosting 
 * Feature engineering
 * Gradient boosting default model
-* Gradient boosting hyper tuning
+* Gradient boosting hyper tuning (CV grid search)
 
